@@ -6,19 +6,19 @@ The purpose of the **BlockBot L1** and **the protocol** is to enable users and d
 
 {% stepper %}
 {% step %}
-### Create account-abstracted smart wallets
+## Create account-abstracted smart wallets
 
 These wallets could support gasless transactions and social login and passkey authentication, removing the need for private key management.
 {% endstep %}
 
 {% step %}
-### Integrate APIs that support sending **crypto**&#x20;
+## Integrate APIs that support sending **crypto**&#x20;
 
 This technology could allow sending **crypto on chat platforms as easily as sending a WhatsApp message**
 {% endstep %}
 
 {% step %}
-### Play and Earn
+## Play and Earn
 
 Users could earn yields via staking or by playing games and completing tasks.
 {% endstep %}
@@ -26,14 +26,14 @@ Users could earn yields via staking or by playing games and completing tasks.
 
 ## Protocol participants
 
-### The BlockBot L1 and protocol
+## The BlockBot L1 and protocol
 
 The BlockBot L1 and protocol are built using [the Avalanche L1 technology stack](https://build.avax.network/docs/quick-start/avalanche-l1s). The architecture consists of:
 
 1. **The L1 blockchain** serves as the support infrastructure for onchain transaction execution.
 2. **The off-chain software component** (currently, [WhatsApp](https://www.whatsapp.com/) business api integration) used to deliver service to web2 native users.
 
-### Developers
+## Developers
 
 **Developers** also participate in the protocol by:
 
@@ -42,7 +42,7 @@ The BlockBot L1 and protocol are built using [the Avalanche L1 technology stack]
 
 This would be made possible as we intend to make BlockBot L1 **permissionless** to allow contributions from external developers.
 
-### Users
+## Users
 
 Users participate in the protocol by:
 
@@ -50,7 +50,7 @@ Users participate in the protocol by:
 * **Sending** crypto to friends, family, or merchants via the BlockBot L1 chain
 * **Earning** rewards for staking, playing games, and completing tasks.
 
-### Merchants
+## Merchants
 
 Merchants can participate in the protocol by:
 
