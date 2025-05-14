@@ -7,7 +7,7 @@
 * [FAQ](faq.md)
 * [Join the Waitlist](https://blockbot.uncrn.co/)
 * [Find Out More](find-out-more/README.md)
-  * [Contact Us](https://x.com/Bbot_community)
   * [X/Twitter](https://x.com/Bbot_community)
+  * [Chat us on Telegram](https://t.me/blockbotchat)
   * [Terms and Conditions](https://hospitable-quilt-30e.notion.site/Terms-of-Use-Agreement-1ccd4e5f825380bb85edd62d5276313e)
   * [Privacy Policy](https://www.notion.so/Privacy-Policy-1ccd4e5f825380fc8647f6f15c43c8c5?pvs=4)
