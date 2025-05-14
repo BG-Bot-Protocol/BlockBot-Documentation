@@ -46,7 +46,7 @@ This would be made possible as we intend to make BlockBot L1 **permissionless** 
 
 Users participate in the protocol by:
 
-* **Testing** the BlockBot L1 chain that is currently live on testnet ([click here to see a guide on getting started with the testnet](broken-reference)).
+* **Testing** the BlockBot L1 chain that is currently live on testnet ([click here to see a guide on getting started with the testnet](for-users/testnet-guide.md)).
 * **Sending** crypto to friends, family, or merchants via the BlockBot L1 chain
 * **Earning** rewards for staking, playing games, and completing tasks.
 
