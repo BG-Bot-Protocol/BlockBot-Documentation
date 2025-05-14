@@ -10,7 +10,7 @@ BlockBot is building an [Avalanche L1](https://build.avax.network/docs/quick-sta
 
 ## Who is building BlockBot? <a href="#who-is-building-blockbot" id="who-is-building-blockbot"></a>
 
-BlockBot is being built by a [dedicated team of engineers and visionaries i](https://www.linkedin.com/company/blockbot-inc/people/?viewAsMember=true)n the blockchain ecosystem, the team behind  [Blockchain Gazette](https://linktr.ee/blockchaingazette).​
+BlockBot is being built by a dedicated [team of engineers and visionaries](https://www.linkedin.com/company/blockbot-inc/people/?viewAsMember=true) in the blockchain ecosystem, the team behind  [Blockchain Gazette](https://linktr.ee/blockchaingazette).​
 
 {% hint style="info" %}
 ### <sub>Disclaimer</sub> <a href="#disclaimer" id="disclaimer"></a>
