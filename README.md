@@ -4,11 +4,11 @@ description: Welcome to the BlockBot documentation!
 
 # Introduction
 
-### What is BlockBot?  <a href="#what-is-blockbot" id="what-is-blockbot"></a>
+## What is BlockBot?  <a href="#what-is-blockbot" id="what-is-blockbot"></a>
 
 BlockBot is building an [Avalanche L1](https://build.avax.network/docs/quick-start/avalanche-l1s) chain and an AI-powered chatbot that will allow users to **send, earn, and play with crypto, all within chat-based platforms like WhatsApp.**
 
-### Who is building BlockBot? <a href="#who-is-building-blockbot" id="who-is-building-blockbot"></a>
+## Who is building BlockBot? <a href="#who-is-building-blockbot" id="who-is-building-blockbot"></a>
 
 BlockBot is being built by a [dedicated team of engineers and visionaries i](https://www.linkedin.com/company/blockbot-inc/people/?viewAsMember=true)n the blockchain ecosystem, also known as the [Blockchain Gazette](https://linktr.ee/blockchaingazette) team.​
 
