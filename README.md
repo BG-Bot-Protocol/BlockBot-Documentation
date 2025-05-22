@@ -1,5 +1,7 @@
 ---
 description: Welcome to the BlockBot documentation!
+cover: .gitbook/assets/Blockbot cover logo updated design.png
+coverY: -57
 ---
 
 # Introduction
