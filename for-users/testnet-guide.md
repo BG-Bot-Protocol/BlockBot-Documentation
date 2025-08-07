@@ -1,10 +1,18 @@
 # Testnet Guide
 
 **BlockBot** testnet will allow you to interact with our L1 on the Avalanche subnet. During this phase, you will be able to initiate transactions on the BlockBot testnet, like sending BlockBot tokens between any EVM-compatible address.
-
+[Faucet Form](https://x.com/Bbot_community/status/1937624599820226946)
 
 
 ***
+
+{% hint style="info" %}
+BlockBot Testnet is Going Offline Temporarily!
+
+As we prepare towards our mainnet launch, the current version of the BlockBot testnet will likely be going offline in the coming days. A more upgraded testnet and in the future, a mainnet, will be launching soon.
+
+
+{% endhint %}
 
 ### Add BlockBot L1 Testnet to MetaMask
 
