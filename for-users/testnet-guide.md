@@ -5,7 +5,7 @@
 ***
 
 {% hint style="info" %}
-⚠️BlockBot Testnet is Going Offline Temporarily!
+BlockBot Testnet is Going Offline Temporarily!⚠️
 
 As we prepare towards our mainnet launch, the current version of the BlockBot testnet will likely be going offline in the coming days. A more upgraded testnet and in the future, a mainnet, will be launching soon.
 
