@@ -2,16 +2,14 @@
 
 **BlockBot** testnet will allow you to interact with our L1 on the Avalanche subnet. During this phase, you will be able to initiate transactions on the BlockBot testnet, like sending BlockBot tokens between any EVM-compatible address.
 
-
 ***
 
 {% hint style="info" %}
-BlockBot Testnet is Going Offline Temporarily!
+⚠️BlockBot Testnet is Going Offline Temporarily!
 
 As we prepare towards our mainnet launch, the current version of the BlockBot testnet will likely be going offline in the coming days. A more upgraded testnet and in the future, a mainnet, will be launching soon.
 
 [Official announcement on X](https://x.com/Bbot_community/status/1937624599820226946)
-
 {% endhint %}
 
 ### Add BlockBot L1 Testnet to MetaMask
@@ -26,15 +24,11 @@ Follow these steps:
 
 4. Click "Save".
 
-
-
 **Watch a live demo on how to add BlockBot L1 testnet to your wallet**
 
 {% embed url="https://drive.google.com/file/d/1911-IWLYW0kAy7FRF25kCbrWynVnK8q6/view?t=44" %}
 Adding BlockBot Testnet Demo
 {% endembed %}
-
-
 
 ***
 
@@ -43,8 +37,7 @@ Adding BlockBot Testnet Demo
 Once you've switched to BlockBot testnet, visit our [Faucet Form](https://tally.so/r/3qgAJg) to request free tokens for use on the testnet.
 
 {% hint style="info" %}
-These tokens are for testing purposes only and hold no real-world value.\
-
+These tokens are for testing purposes only and hold no real-world value.\\
 {% endhint %}
 
 ### Using Other Wallets <a href="#using-other-wallets" id="using-other-wallets"></a>
@@ -75,7 +68,7 @@ These instructions should work with any EVM-compatible wallet.
 ***
 
 {% hint style="info" %}
-## Disclaimer
+### Disclaimer
 {% endhint %}
 
 _This documentation is not investment advice, it is provided for educational and development purposes only. The details found herein in this documentation may be updated without notice as needed. Significant changes to this documentation may later be communicated via our official channels._
