@@ -1,13 +1,34 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [BlockBot L1 and Protocol](blockbot-l1-and-protocol.md)
-* [For Users](for-users/README.md)
-  * [Testnet Guide](for-users/testnet-guide.md)
-* [FAQ](faq.md)
-* [Join the Waitlist](https://blockbot.uncrn.co/)
-* [Find Out More](find-out-more/README.md)
-  * [X/Twitter](https://x.com/Bbot_community)
-  * [Chat us on Telegram](https://t.me/blockbotchat)
-  * [Terms and Conditions](https://hospitable-quilt-30e.notion.site/Terms-of-Use-Agreement-1ccd4e5f825380bb85edd62d5276313e)
-  * [Privacy Policy](https://www.notion.so/Privacy-Policy-1ccd4e5f825380fc8647f6f15c43c8c5?pvs=4)
+
+## For Developers
+
+* [📖 Integrating BlockBot Widget | Overview](for-developers/integrating-blockbot-widget-or-overview.md)
+
+## Widget Setup Guide Steps
+
+* [1️⃣ Installation Quick Start](widget-setup-guide-steps/installation-quick-start.md)
+* [2️⃣ Select Widget Design Variants](widget-setup-guide-steps/select-widget-design-variants.md)
+* [3️⃣ Choose Widget Language](widget-setup-guide-steps/choose-widget-language.md)
+* [4️⃣ Monetize Widget \[Coming Soon\]](widget-setup-guide-steps/monetize-widget-coming-soon.md)
+
+## Analytics
+
+* [🔍 BlockBot Wallet Analytics Dashboard](https://useblockbot.com/analytics)
+
+## Technical Architecture
+
+* [BlockBot L1 and Protocol](technical-architecture/blockbot-l1-and-protocol.md)
+
+## 🌿 FOR USERS
+
+* [🛣️ Testnet Guide](for-users/testnet-guide.md)
+* [❓ FAQ](for-users/faq.md)
+
+## Other Resources
+
+* [Contact Us](https://useblockbot.com/)
+* [X/Twitter](https://x.com/Bbot_community)
+* [Privacy Policy](https://useblockbot.com/privacy)
+* [Terms of Service](https://useblockbot.com/terms)
