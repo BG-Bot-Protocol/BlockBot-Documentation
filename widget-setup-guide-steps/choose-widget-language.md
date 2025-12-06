@@ -13,7 +13,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `large` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=large&theme=light" style="height: 600px; width: 500px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+<iframe src="https://useblockbot.com/widget/api/v1?type=large&theme=light" style="height: 600px; width: 500px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ***
@@ -21,7 +21,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `compact` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=compact&theme=light" style="width: 300px; height: 300px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+<iframe src="https://useblockbot.com/widget/api/v1?type=compact&theme=light" style="width: 300px; height: 300px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ***
@@ -29,7 +29,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `qrcode` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=qrcode&theme=light" style="width: 400px; height: 400px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+<iframe src="https://useblockbot.com/widget/api/v1?type=qrcode&theme=light" style="width: 400px; height: 400px; border-radius: 20px; box-shadow: 0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ### 2. Using React/TypeScript
@@ -37,7 +37,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `large` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=large&theme=light" style={{ width: "500px", height: "600px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
+<iframe src="https://useblockbot.com/widget/api/v1?type=large&theme=light" style={{ width: "500px", height: "600px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
 ```
 
 ***
@@ -45,7 +45,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `compact` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=compact&theme=light" style={{ width: "300px", height: "300px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
+<iframe src="https://useblockbot.com/widget/api/v1?type=compact&theme=light" style={{ width: "300px", height: "300px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
 ```
 
 ***
@@ -53,7 +53,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `qrcode` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=qrcode&theme=light" style={{ width: "400px", height: "400px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
+<iframe src="https://useblockbot.com/widget/api/v1?type=qrcode&theme=light" style={{ width: "400px", height: "400px", borderRadius: "20px", boxShadow: "0px 0px 15px 1px #00000021" }} frameBorder="0" />
 ```
 
 ### 3. Using Vue
@@ -61,7 +61,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `large` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=large&theme=light" style="width:500px;height:600px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+<iframe src="https://useblockbot.com/widget/api/v1?type=large&theme=light" style="width:500px;height:600px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ***
@@ -69,7 +69,7 @@ BlockBot's widget is compatible with all languages that support Iframe. Like:
 `compact` variant
 
 ```
-iframe src="https://developerblockbotwidgetv1.vercel.app/?type=compact&theme=light" style="width:300px;height:300px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+iframe src="https://useblockbot.com/widget/api/v1?type=compact&theme=light" style="width:300px;height:300px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ***
@@ -77,7 +77,7 @@ iframe src="https://developerblockbotwidgetv1.vercel.app/?type=compact&theme=lig
 `qrcode` variant
 
 ```
-<iframe src="https://developerblockbotwidgetv1.vercel.app/?type=qrcode&theme=light" style="width:400px;height:400px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
+<iframe src="https://useblockbot.com/widget/api/v1?type=qrcode&theme=light" style="width:400px;height:400px;border-radius:20px;box-shadow:0px 0px 15px 1px #00000021;" frameborder="0"></iframe>
 ```
 
 ***
